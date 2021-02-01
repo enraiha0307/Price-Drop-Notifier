@@ -48,8 +48,8 @@
     <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="">View Demo</a>
-    ·
+<!--     <a href="">View Demo</a>
+    · -->
     <a href="https://github.com/enraiha0307/Price-Drop-Notifier/issues">Report Bug</a>
     ·
     <a href="https://github.com/enraiha0307/Price-Drop-Notifier/issues">Request Feature</a>
