@@ -36,7 +36,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/enraiha0307/Price-Drop-Notifier">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -48,11 +48,11 @@
     <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="https://naughty-euclid-b5ea25.netlify.app/">View Demo</a>
+    <a href="">View Demo</a>
     ·
-    <a href="https://github.com/enraiha0307/BackgroundChange-OnScroll/issues">Report Bug</a>
+    <a href="https://github.com/enraiha0307/Price-Drop-Notifier/issues">Report Bug</a>
     ·
-    <a href="https://github.com/enraiha0307/BackgroundChange-OnScroll/issues">Request Feature</a>
+    <a href="https://github.com/enraiha0307/Price-Drop-Notifier/issues">Request Feature</a>
   </p>
 </p>
 
@@ -67,14 +67,16 @@
 
 
 
-`enraiha0307`, `BackgroundChange-OnScroll`, `@AkankshaGahalot`, `akankshagahlot0307@gmail.com`
+`enraiha0307`, `Price-Drop-Notifier`, `@AkankshaGahalot`, `akankshagahlot0307@gmail.com`
 
 
 ### Built With
 
-* [HTML]
-* [CSS]
-* [Javascript]
+* [Python]
+* [BeautifulSoup]
+* [requests]
+* [smtplib]
+* [time]
 
 
 
