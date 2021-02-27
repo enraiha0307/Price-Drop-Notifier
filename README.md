@@ -88,7 +88,7 @@
 
 Akanksha Gahalot - [@AkankshaGahalot](https://twitter.com/AkankshaGahalot) 
 
-Project Link: [https://github.com/enraiha0307/Price-Drop-Notifier](https://github.com/enraiha0307/BackgroundChange-OnScroll)
+Project Link: [https://github.com/enraiha0307/Price-Drop-Notifier](https://github.com/enraiha0307/Price-Drop-Notifier)
 
 
 
